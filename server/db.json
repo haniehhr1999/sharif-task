@@ -1,0 +1,47 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "7e6c",
+      "username": "hanieh",
+      "password": "1234",
+      "todos": []
+    },
+    {
+      "id": "6208",
+      "username": "mmd",
+      "password": "789",
+      "todos": [
+        {
+          "id": 1740068337347,
+          "title": "ttt",
+          "desc": "gdgsdgfhdskfhdjskflksdjgoiserjgklvjfxkngdfknhjkghpodjfhklf",
+          "done": true
+        },
+        {
+          "id": 1740071462193,
+          "title": "fsdsd",
+          "desc": "",
+          "done": true
+        },
+        {
+          "id": 1740177867871,
+          "title": "bbbbb",
+          "desc": "sdfsfsf",
+          "done": false
+        }
+      ]
+    }
+  ]
+}
